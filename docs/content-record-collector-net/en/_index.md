@@ -2,8 +2,6 @@
 title = "more10.eu"
 description = "A web log."
 keywords = "C# HTML"
-images:
-  - /files/photo-8.jpg
 +++
 This site contains documentation and also acts as a demo web site of the static output.
 
