@@ -16,17 +16,17 @@ Pick one of the example `appsettings.*.json` files or the base file and "save as
 
 ```js
 {
-	"AppSettings": {
-		"SiteUrl": "http://localhost:5000/",
-		"ContentRootPath": "C:\\github\\record-collector\\docs\\content-record-collector-net\\",
-		"StaticSiteRootPath": "C:\\github\\record-collector\\artifacts\\static-site\\",
-		"FrontendSetup": "default",
-		"ViewPrefix": "",
-		"SectionsToExcludeFromLists": [ "pages", "sidor" ],
-		"MainNavigationSections": [ "pages", "sidor" ],
-		"PaginationPageCount": 2,
-		"PaginationPageSize": 2
-	}
+    "AppSettings": {
+        "SiteUrl": "http://localhost:5000/",
+        "ContentRootPath": "C:\\github\\record-collector\\docs\\content-record-collector-net\\",
+        "StaticSiteRootPath": "C:\\github\\record-collector\\artifacts\\static-site\\",
+        "FrontendSetup": "default",
+        "ViewPrefix": "",
+        "SectionsToExcludeFromLists": [ "pages", "sidor" ],
+        "MainNavigationSections": [ "pages", "sidor" ],
+        "PaginationPageCount": 2,
+        "PaginationPageSize": 2
+    }
 }
 ```
 
@@ -53,7 +53,7 @@ Open the SLN file in repository root. Focus the Web project and switch from IIS 
 
 If you have PowerShell you can run `run-mvc-web.ps1` in the repository root or paste this in to your terminal from there:
 
-```
+```PS
 dotnet run --project ./src/Krompaco.RecordCollector.Web/Krompaco.RecordCollector.Web.csproj --configuration Release
 ```
 
@@ -61,7 +61,7 @@ dotnet run --project ./src/Krompaco.RecordCollector.Web/Krompaco.RecordCollector
 
 Run `run-static-site-generator.ps1` in the repository root or use command:
 
-```
+```PS
 dotnet test ./src/Krompaco.RecordCollector.Generator/Krompaco.RecordCollector.Generator.csproj --logger "console;verbosity=detailed"
 ```
 
@@ -84,22 +84,22 @@ You can of course modify anything existing but there is a also a simple built-in
 
 This works so that if you change the setting to something like `"ViewPrefix": "MiasTheme"` the default MVC controller will use that setting value in this way:
 
-```
+```C#
 return this.View(viewPrefix + "List", viewModel);
 ```
 
 As you already have figured out you can now put files named `MiasThemeList.cshtml` and `MiasThemeSingle.cshtml` in `Views/Content` and then from those files refer to any layout file you have or custom partial files. Example start of `MiasThemeList.cshtml` file:
 
-```
+```C#
 @using Krompaco.RecordCollector.Content.Models
 @using Markdig
 
 @model ListPageViewModel
 
 @{
-	Layout = "MiasThemeExtraWideLayout";
+    Layout = "MiasThemeExtraWideLayout";
 }
 ..
 ```
 
-Thanks for your interest in Record Collector and reading this far!
+Thanks for your interest in Record Collector and reading this far
