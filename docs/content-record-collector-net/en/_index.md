@@ -1,6 +1,6 @@
 +++
-title = "The .NET 6.0 static site toolkit"
-description = "The documentation and Record Collector demo web site."
+title = ""
+description = "A web log."
 keywords = "C# HTML"
 +++
 This site contains documentation and also acts as a demo web site of the static output.
