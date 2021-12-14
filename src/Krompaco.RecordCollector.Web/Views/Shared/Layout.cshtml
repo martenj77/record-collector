@@ -66,12 +66,15 @@
 			var linkClasses = "rc-link";
 			<div role="banner">
 				<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-					<div class="h-12 sm:h-16 pt-4 sm:pt-6 text-lg sm:text-xl">
+
+					<div class="h-0 sm:h-0 pt-4 sm:pt-6 text-lg sm:text-xl">
 						<a class="@linkClasses sr-only focus:not-sr-only" href="#main">@Model.Localizer["Skip to main content"]</a>
 					</div>
 					<div role="banner" class="mt-1" data-controller="menu" data-menu-open-text-value="@Model.Localizer["Open menu"]" data-menu-close-text-value="@Model.Localizer["Close menu"]">
 						<div class="flex justify-between items-center">
-							<div class="-mb-px flex text-2xl sm:text-2xl font-bold">
+												<div class="h-12 sm:h-16 pt-4 sm:pt-6 text-3xl sm:text-2xl font-extrabold">more10.<span class="text-red-800">eu</span>
+						</div>
+						<!--	<div class="-mb-px flex text-2xl sm:text-2xl font-bold">
 								@if (Model.CurrentPath == "/" || Model.RootCultures.Count > 0 && Model.CurrentCulture.Name == Model.CurrentPath.Replace("/", string.Empty))
 								{
 									<a href="@(Model.RootCultures.Count > 0 ? $"/{Model.CurrentCulture.Name}/" : "/")" class="@linkClasses" aria-current="page">@Model.Localizer["Home"]</a>
@@ -80,7 +83,7 @@
 								{
 									<a href="@(Model.RootCultures.Count > 0 ? $"/{Model.CurrentCulture.Name}/" : "/")" class="@linkClasses">@Model.Localizer["Home"]</a>
 								}
-							</div>
+							</div> -->
 							<div>
 								<button data-menu-target="button" data-action="click->menu#toggle touch->menu#toggle" type="button" class="p-[4px] rc-menu-link justify-self-end">
 									<span class="sr-only js-text-content">@Model.Localizer["Open menu"]</span>
