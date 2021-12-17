@@ -9,3 +9,5 @@ artifacts/static-site/
 src/Krompaco.RecordCollector.Web/wwwroot/dist/*.js
 src/Krompaco.RecordCollector.Web/wwwroot/dist/*.map
 src/Krompaco.RecordCollector.Web/wwwroot/dist/*.css
+docs/content-record-collector-net/.obsidian/
+docs/content-record-collector-net/.obsidian
