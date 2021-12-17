@@ -5,7 +5,7 @@ description: "META-beskrivning av sidan är viktigt."
 categories:
   - Mat
 images:
-  - /files/brod1.jpg
+  - /files/pan_con_tomate.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
