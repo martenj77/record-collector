@@ -5,7 +5,7 @@ description: "Recept: Pasta carbonara"
 categories:
   - Mat
 images:
-  - /files/brod1.jpg
+  - /files/dadanilo_carbonara.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
@@ -18,6 +18,8 @@ Världens mest kända pastarätter: Spagetti bolognese, lasagne och sen..
 Pasta, ägg, bacon och svartpeppar. Och ost. Och grädde. Och allsköns annat som slängs på.
 
 Jag åt mitt livs godaste carbonara på restaurang [Trattoria da Danilo](https://www.trattoriadadanilo.com/) i Rom 2014. Alla carbonaror som lagats hemma eller ätits på restaurang har efter det besöket jämförts med vad som serverades då. Till saken hör, delvis, att det var deras carbonara special med tryffel. Men det är egentligen inte så viktigt, det var krämigheten som var Grejen.
+
+![Den där pastan på da Danilo](/files/dadanilo_carbonara.jpg "Carbonara")
 
 ## Små tips vad gäller pasta
 
@@ -59,3 +61,5 @@ Jag åt mitt livs godaste carbonara på restaurang [Trattoria da Danilo](https:/
 ## Variation
 
 Jag nämnde tryffelpastan på da Danilo. Visst, man kan ju köpa tryffel på burk, men om man vill vara lite mer "vardag" funkar det också bra med 1 tesked tryffelsalt i äggröran. Eller lite till om man gillar tryffelsmaken.
+
+![da Danilo](/files/dadanilo.jpg "da Danilo")
