@@ -39,21 +39,21 @@
 	}
 
 	.prose pre, .prose pre code {
-		font-size: .7em !important;
+		font-size: .8em !important;
+	} 
+
+	
+	.prose code:after, .prose code:before {
+		content: "";
 	}
 	
-		.prose code:after, .prose code:before {
-			content: "";
-		}
-		
-		.prose code {
-			background-color: #FFFFDD;
-		}
-		
-		.prose pre code {
-			color: #FFFFDD;
-		}
-
+/*	.prose code {
+		background-color: #FFFFDD;
+	}
+*/	
+	.prose pre code {
+		color: #FFFFDD;
+	}
 
 	.prose .table-wrapper {
 		max-width: 100%;
