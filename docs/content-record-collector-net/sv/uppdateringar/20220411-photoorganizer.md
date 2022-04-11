@@ -12,14 +12,12 @@ authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
 ---
-I've started to organize all my photos from the last 20 or so years.
+Jag har börjat få lite ordning på alla bilder som jag tagit de senaste 20 åren.
 
 <!--more-->
-*(läs [posten på svenska](../../../sv/uppdateringar/20220411-photoorganizer/))*
+Jag hittade ett powershell-skript för att organisera alla bilder in till mappar men fastnade på ett problem med svenskt datumformat - så gjorde en uppdatering av skriptet och [postade det på github](https://gist.github.com/martenj77/f410d8b71fd4b1eec728f7d600f07fbe).
 
-I found a powershell script to organize them into neat folders. However there were some problems with Swedish date format - so I made a minor edit and [posted it to a github gist](https://gist.github.com/martenj77/f410d8b71fd4b1eec728f7d600f07fbe).
-
-The [original can be found here](https://gist.github.com/jongio/a40ea198ca5ebd85d711a7779289cc89) - many thanks [jongio](https://gist.github.com/jongio)!
+[Originalet kan hittas här](https://gist.github.com/jongio/a40ea198ca5ebd85d711a7779289cc89) - many thanks [jongio](https://gist.github.com/jongio)!
 
 
 ### PhotoOrganizer.ps1
