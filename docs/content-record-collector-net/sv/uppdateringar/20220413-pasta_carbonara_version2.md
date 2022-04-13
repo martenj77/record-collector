@@ -14,7 +14,7 @@ robots: "noindex"
 En ny variant på "min" pasta carbonara.
 <!--more-->
 
-Sedan sist när jag postade [ett carbonara-recept](20211217-pasta_carbonara.html) har jag testat lite mer. Så här kommer en uppdatering.
+Sedan sist när jag postade [ett carbonara-recept](../20211217-pasta_carbonara) har jag testat lite mer. Så här kommer en uppdatering.
 
 ## Ingredienser
 (4 portioner)
