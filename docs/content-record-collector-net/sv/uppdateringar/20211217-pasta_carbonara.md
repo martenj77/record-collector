@@ -35,7 +35,7 @@ Jag åt mitt livs godaste carbonara på restaurang [Trattoria da Danilo](https:/
 * salt
 * 100-150g pancetta i skiva(or), ca 1 cm tjock
 * peccorino-ost, ca 1 dl riven fint
-* parmessan-ost, 0,5-1 dl riven
+* parmesan-ost, 0,5-1 dl riven
 * ett helt ägg, två äggulor
 * svartpeppar
 
