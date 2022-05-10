@@ -25,7 +25,7 @@ Built using .NET 6.0 (through 3.1 and 5.0) and with these packages and projects.
 | [JetBrains Mono font](https://www.jetbrains.com/lp/mono/) | SIL Open Font License 1.1 |
 | [Tailwind CSS](https://tailwindcss.com/)                  | MIT                       |
 | [Hotwire](https://hotwired.dev/)                          | MIT                       |
-| [Simple.css \{\}](https://simplecss.org/)                 | MIT                       |
+| [Simple.css](https://simplecss.org/)                      | MIT                       |
 | [Html Agility Pack](https://html-agility-pack.net/)       | MIT                       |
 
 Other things such as Webpack can be involved too but these are the ones I reference directly.
@@ -35,15 +35,21 @@ Other things such as Webpack can be involved too but these are the ones I refere
 * [StyleCop.Analyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
 * [Microsoft.CodeAnalysis.NetAnalyzers](https://github.com/dotnet/roslyn-analyzers)
 
-### Demo sites
-
-The [demo web site](https://record-collector.net) is generated and [deployed with Netlify using their build-image](https://github.com/krompaco/record-collector/blob/main/docs/content-record-collector-net/en/updates/continuous-deployment-using-just-netlify.md). It has the `default` frontend.
+## [Main web site](https://record-collector.net)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d83429cd-4060-466a-8491-1afbb1c97149/deploy-status)](https://app.netlify.com/sites/record-collector-ui/deploys)
 
-This [other instance of the web site](https://record-collector.netlify.app) is generated on push and [deployed to Netlify using a GitHub Action](https://github.com/krompaco/record-collector/blob/main/docs/content-record-collector-net/en/updates/deploy-to-netlify-using-a-github-action.md). It has the `simplecss` frontend configuration.
+The main web site is generated and [deployed with Netlify using their build-image](https://github.com/krompaco/record-collector/blob/main/docs/content-record-collector-net/en/updates/continuous-deployment-using-just-netlify.md).
+
+It has the `default` frontend.
+
+## [Demo web site](https://record-collector.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97fc0268-36e9-408f-995c-13ed2605a11e/deploy-status)](https://app.netlify.com/sites/record-collector/deploys)
+
+This other instance with the same content is generated on push and [deployed to Netlify using a GitHub Action](https://github.com/krompaco/record-collector/blob/main/docs/content-record-collector-net/en/updates/deploy-to-netlify-using-a-github-action.md).
+
+It has the `simplecss` frontend configuration.
 
 ## License
 
