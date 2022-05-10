@@ -124,7 +124,7 @@
 	<footer class="max-w-full mx-auto py-12 px-4 sm:px-6 lg:px-8 text-gray-200 bg-gray-900">
 		@{
 			var footerLinkClasses = "rc-link text-2xl font-extralight";
-			var isRootWithCultureSelection = Model.RootCultures.Count > 0 && Model.CurrentPath == "/";
+			var isRootWithCultureSelection = Model.RootCultures?.Count > 0 && Model.CurrentPath == "/";
 		}
 
 		@if (isRootWithCultureSelection == false && Model.RootCultures?.Count > 0 && Model.ContentProperties?.FrontendSetup != "simplecss")
