@@ -42,4 +42,4 @@ Har du ingen bearnaiseessens-flaska? Se tipsen längst ner.
 
 * Häller man på smöret över äggen för fort eller vispar för svagt kan såsen skära sig. Det går att lösa genom att hälla på lite kallt vatten (några droppar - eller till och med lite is). Alternativt kan du tillsätta en ny äggula under stark vispning.
 
-* Har du ingen flaska bearnaiseessens? Kör på Tommy Myllimäkis recept och koka ihop 1 skivad schalottenlök, 1 kruka dragon (stjälkar och blad), 2 dl vitvinsvinäger och 6-7 vitpepparkorn i 2-3 minuter. Sila av. Reduktionen håller upp emot ett år i en tät burk.
+* Har du ingen flaska bearnaiseessens? Kör på Tommy Myllymäkis recept och koka ihop 1 skivad schalottenlök, 1 kruka dragon (stjälkar och blad), 2 dl vitvinsvinäger och 6-7 vitpepparkorn i 2-3 minuter. Sila av. Reduktionen håller upp emot ett år i en tät burk.
