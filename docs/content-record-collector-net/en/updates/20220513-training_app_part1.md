@@ -5,7 +5,7 @@ description: ""
 categories:
   - Code
 images:
-  - /files/git01.jpg
+  - /files/running.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
