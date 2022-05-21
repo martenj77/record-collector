@@ -17,7 +17,7 @@ I decided to take my coding skills and make something. A personal training activ
 
 I want a webpage to enter a training activity, some specifics about it like the duration and distance (if applicable). Also the location (like what city, if I was at home etc) and the date. That's it. By keeping it simple I have the vision that this is something that I actually can make a habit of over the years.
 
-And I then see that I need some kind of dashboard to present the activites to see trends etc. And that's part two I guess.
+And I then see that I need some kind of dashboard to present the activites to see trends etc. That's 2.0 I guess.
 
 ## Tech stack
 
