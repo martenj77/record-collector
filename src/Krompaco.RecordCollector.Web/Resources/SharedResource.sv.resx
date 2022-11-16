@@ -172,7 +172,7 @@
     <comment>Skip link</comment>
   </data>
   <data name="The latest updates" xml:space="preserve">
-    <value>Senaste posterna</value>
+    <value>Senaste uppdateringarna</value>
     <comment>The default H2 for paged lists</comment>
   </data>
 </root>
