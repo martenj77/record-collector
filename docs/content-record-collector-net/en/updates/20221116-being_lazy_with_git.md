@@ -10,7 +10,7 @@ authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
 ---
-I run the combo "git add . + git commit -m "something" + git push" so many times. So why not get creative and more efficient instead. Or just lazy.
+I run the combo "git add . + git commit -m "something" + git push" so many times...
 <!--more-->
 
 In Powershell there is a settings file that run everytime. To edit it in [VS Code](https://code.visualstudio.com/), in a powershell terminal - run `code $profile`.
