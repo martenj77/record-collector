@@ -15,7 +15,9 @@ I run the combo "git add . + git commit -m "something" + git push" so many times
 
 In Powershell there is a settings file that run everytime. To edit it in [VS Code](https://code.visualstudio.com/), in a powershell terminal - run 
 
-`code $profile`.
+```ps
+code $profile
+```
 
 Once there, just do a little something like this and save.
 
@@ -31,7 +33,9 @@ And reload your powershell terminal.
 
 Now you can do 
 
-`quickgit "nice message"` 
+```ps
+quickgit "nice message"
+```
 
 instead of..
 
