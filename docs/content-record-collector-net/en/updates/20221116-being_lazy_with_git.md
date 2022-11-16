@@ -13,7 +13,9 @@ robots: "noindex"
 I run the combo "git add . + git commit -m "something" + git push" so many times...
 <!--more-->
 
-In Powershell there is a settings file that run everytime. To edit it in [VS Code](https://code.visualstudio.com/), in a powershell terminal - run `code $profile`.
+In Powershell there is a settings file that run everytime. To edit it in [VS Code](https://code.visualstudio.com/), in a powershell terminal - run 
+
+`code $profile`.
 
 Once there, just do a little something like this and save.
 
@@ -27,7 +29,11 @@ function quickgit() {
 ```
 And reload your powershell terminal.
 
-Now you can do `quickgit "nice message"` instead of..
+Now you can do 
+
+`quickgit "nice message"` 
+
+instead of..
 
 ```ps
 git add .
