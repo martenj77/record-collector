@@ -3,7 +3,8 @@ title: "Being lazy with git"
 date: 2022-11-16
 description: ""
 categories:
-  - Windows
+  - Powershell
+  - git
 images:
   - /files/git01.jpg
 authorname: "Mårten Johannesson"
