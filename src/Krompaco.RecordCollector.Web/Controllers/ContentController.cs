@@ -177,6 +177,7 @@ namespace Krompaco.RecordCollector.Web.Controllers
                                 .StartsWith($"{this.currentCulture.Name}/", StringComparison.OrdinalIgnoreCase))
                         .Select(x => x as SinglePage)
                         .Where(x => x?.Title != null && x.Level == 1)
+                        .Where(x => x?.Weight < 5) // pages with wight 5 or above are not included in top menu
                         .OrderByDescending(x => x?.Weight ?? int.MinValue)
                         .ThenBy(x => x?.Title)
                         .ToList();

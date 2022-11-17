@@ -73,7 +73,7 @@ namespace Krompaco.RecordCollector.Content.Models
         public string? LinkTitle { get; set; }
 
         public string? Summary { get; set; }
-
+        
         public string? Content { get; set; }
 
         public ContentType ContentType { get; set; }

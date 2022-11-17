@@ -1,5 +1,5 @@
 ---
-title: "Referens och out-parametrar"
+title: "Lokala funktioner"
 date: 2021-04-11
 description: "c#: metoder"
 categories:
@@ -9,6 +9,7 @@ images:
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
+weight: 5
 ---
 
 Out! Ref! Med mera

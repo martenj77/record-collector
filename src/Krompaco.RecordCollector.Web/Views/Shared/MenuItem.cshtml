@@ -44,7 +44,7 @@
             </div>
         }
     </div>
-	@if (Model?.ChildItems != null && Model.ChildItems.Count > 0)
+	 @if (Model?.ChildItems != null && Model.ChildItems.Count > 0)
     {
         <ul id="@listId" class="hidden">
             @foreach (var child in Model.ChildItems)
@@ -52,5 +52,5 @@
                 @await Html.PartialAsync("MenuItem", child)
             }
         </ul>
-    }
+    } 
 </li>
