@@ -1,6 +1,6 @@
 ---
 title: "Metoder"
-date: 2022-06-16
+date: 2021-04-11
 description: "c#: metoder"
 categories:
   - C#

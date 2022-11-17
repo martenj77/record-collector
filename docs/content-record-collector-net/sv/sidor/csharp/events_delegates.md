@@ -1,6 +1,6 @@
 ---
 title: "Events och delegates"
-date: 2022-04-11
+date: 2021-04-11
 description: "c#: metoder"
 categories:
   - C#
