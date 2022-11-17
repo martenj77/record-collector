@@ -5,7 +5,7 @@ description: "Arkitektur på svenska: Tillämpning referensarkitektur IAM i VGR"
 categories:
   - Arkitektur
 images:
-  - /files/egg.jpg
+  - /files/git01.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
