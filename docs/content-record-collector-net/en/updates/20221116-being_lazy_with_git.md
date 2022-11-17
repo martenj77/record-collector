@@ -6,7 +6,7 @@ categories:
   - Powershell
   - git
 images:
-  - /files/git01.jpg
+  - /files/code02.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"

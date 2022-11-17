@@ -5,7 +5,7 @@ description: ""
 categories:
   - Windows
 images:
-  - /files/git01.jpg
+  - /files/photography.jpg
 authorname: "Mårten Johannesson"
 authorimage: "/files/mj.jpg"
 robots: "noindex"
