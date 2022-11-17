@@ -4,6 +4,7 @@ date: 2022-11-16
 description: ""
 categories:
   - Windows
+  - Photography
 images:
   - /files/photography.jpg
 authorname: "Mårten Johannesson"
