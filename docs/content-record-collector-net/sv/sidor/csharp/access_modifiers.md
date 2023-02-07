@@ -5,9 +5,9 @@ description: "c#: access modifiers"
 categories:
   - C#
 images:
-  - /files/egg.jpg
+  - /files/net1.jpg
 authorname: "Mårten Johannesson"
-authorimage: "/files/net1.jpg"
+authorimage: "/files/mj.jpg"
 robots: "noindex"
 weight: 5
 ---
