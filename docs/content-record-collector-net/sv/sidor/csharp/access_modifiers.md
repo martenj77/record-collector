@@ -1,33 +1,29 @@
 ---
 title: "Access modifiers"
-date: 2021-04-11
+date: 2023-02-07
 description: "c#: access modifiers"
 categories:
   - C#
 images:
   - /files/egg.jpg
 authorname: "Mårten Johannesson"
-authorimage: "/files/mj.jpg"
+authorimage: "/files/net1.jpg"
 robots: "noindex"
 weight: 5
 ---
 
-Out! Ref! Med mera
+Mina noteringar runt access modifiers, eller hur man uppnår inkapsling/encapsulation.
 <!--more-->
-## Vad är en metod?
+## De olika typerna av access modifiers
 
-## Typer av metoder
+| Typ   | Beskrivning   |
+|---|---|
+| public   | tillgänglig överallt  |
+| private | endast tillgänglig i samma typ - default|
+| protected| tillgänglig i samma typ och de som ärver från typen |
+|internal| tillgänglig i samma assembly (dvs "project" på VS-språk) |
+|internal protected| tillgänglig i samma typ, i typer i samma assembly och i typ som ärver från typen. Dvs **internal**+**protected** på samma gång |
+| private protected | tillgänglig i typen och typ som ärver från typen och är i samma assembly. Dvs en begränsad variant av **protected**. |
 
-### Metod med returvärde
-```C#
 
-```
-
-### Metod utan returvärde
-
-```c#
-void gorNagonting(int varde, string text)
-  {
-    ...
-  }
-```
+## Exempel
