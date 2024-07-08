@@ -1,6 +1,7 @@
 ---
 title: "Fixing Blurb Bookwright in Windows 11"
 date: 2022-11-16
+updated: 2024-07-08
 description: ""
 categories:
   - Windows
